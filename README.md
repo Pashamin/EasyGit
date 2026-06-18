@@ -10,13 +10,7 @@
 
 
 
-<img width="498" height="630" alt="image" src="https://github.com/user-attachments/assets/097cbbec-cad8-4275-a088-be8652f4d5f7" />
 
-
-<img width="579" height="614" alt="image" src="https://github.com/user-attachments/assets/3ab95c14-9c9d-4f0f-8c60-d912bfc6d6c2" />
-
-
-<img width="316" height="182" alt="image" src="https://github.com/user-attachments/assets/c8addcab-227b-4357-8be5-bcd109263ac8" />
 
 
 
@@ -24,6 +18,15 @@
 **EasyGit** — это легковесный и быстрый менеджер для скачивания (клонирования) Git-репозиториев с открытым исходным кодом, написанный на C# Windows Forms с использованием библиотеки `LibGit2Sharp`.
 
 Программа создана для тех, кто хочет быстро выкачать нужный проект с GitHub без необходимости устанавливать тяжелый консольный Git или разбираться в командах терминала.
+
+
+<img width="498" height="630" alt="image" src="https://github.com/user-attachments/assets/097cbbec-cad8-4275-a088-be8652f4d5f7" />
+
+
+<img width="579" height="614" alt="image" src="https://github.com/user-attachments/assets/3ab95c14-9c9d-4f0f-8c60-d912bfc6d6c2" />
+
+
+<img width="316" height="182" alt="image" src="https://github.com/user-attachments/assets/c8addcab-227b-4357-8be5-bcd109263ac8" />
 
 ## Форки и копирование кода
 
