@@ -1,4 +1,23 @@
-﻿using System;
+/*
+███████╗ █████╗ █▀████╗██╗   ██╗ ██████╗ ██╗████████╗
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝██╔════╝ ██║╚══██╔══╝
+█████╗  ███████║╚█████╗  ╚████╔╝ ██║  ███╗██║   ██║   
+██╔══╝  ██╔══██║ ╚═══██╗  ╚██╔╝  ██║   ██║██║   ██║   
+███████╗██║  ██║██████▀╝   ██║   ╚██████╔╝██║   ██║   
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝   ╚═╝
+                                                        
+   -> GitHub: https://github.com/Pashamin/EasyGit
+   -> Fork Policy: Please credit the original repository.
+*/
+
+
+
+
+
+
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
